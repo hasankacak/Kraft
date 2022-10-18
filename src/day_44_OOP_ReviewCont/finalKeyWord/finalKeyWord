@@ -1,0 +1,19 @@
+final keyword is not access modifier
+        -we can it with variable-method-class
+
+        **final variables**
+        to create constant variables
+        if the instance variable is final;
+            - we initialize in same statement or
+            - we initialize in constructor or
+            - we initialize in init block
+
+        **final method**
+        prevent method overriding
+
+        **final class**
+        prevent inheritance
+        for immutable consept; we be final class is needed. for example String class
+
+        **final keyword with Array and ArrayList**
+        variable referans can not be changed

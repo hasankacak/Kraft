@@ -1,0 +1,8 @@
+1- programımızda yazılan gereksiz kod fazlalığından kurtarr.
+2- farklı tanımlamalar sayesinde esneklik sağlar
+    çok biçimlilik
+    Alparfslan bey öğretmen, öğrenci, tester
+
+3- karmaşıklığı azaltır. geri okunabilirliği artırır.
+4- hata ayıklamayı kolaylaştırır.
+5- güvenliği artırır.

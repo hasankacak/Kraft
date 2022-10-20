@@ -12,7 +12,7 @@ public class ListExample {
 //        System.out.println(list.get(0));
 
         Integer[] arr={1,2,3,4,5,5,4,3};
-//        System.out.println(addListMethod2(arr));
+     System.out.println(addListMethod2(arr));
 //
 //        List<Integer> list1=new ArrayList<>();
 //        list1.add(5);
